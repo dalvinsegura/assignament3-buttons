@@ -2,4 +2,22 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Nueva paleta de colores -->
+    <color name="colorPrimary">#6200EA</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBackground">#121212</color>
+    <color name="colorSurface">#242424</color>
+    <color name="colorError">#CF6679</color>
+
+    <!-- Colores para botones especiales -->
+    <color name="lengthColor">#4CAF50</color>
+    <color name="weightColor">#2196F3</color>
+    <color name="tempColor">#FFC107</color>
+    <color name="numpadButtonColor">#333333</color>
+    <color name="numpadTextColor">#FFFFFF</color>
+    <color name="displayBackground">#1E1E1E</color>
+    <color name="displayText">#03DAC5</color>
 </resources>
+
