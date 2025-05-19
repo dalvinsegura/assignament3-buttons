@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_message">Bienvenido a la App de Conversión</string>
+    <string name="enter_your_name">Ingrese su nombre</string>
+    <string name="confirm">Confirmar</string>
+    <string name="length_conversion">Longitud\n(m ↔ ft)</string>
+    <string name="weight_conversion">Peso\n(kg ↔ lb)</string>
+    <string name="temp_conversion">Temperatura\n(°C ↔ °F)</string>
+    <string name="reset">C</string>
+</resources>
+
